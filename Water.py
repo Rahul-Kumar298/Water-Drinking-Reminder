@@ -59,7 +59,7 @@ def start_reminder(root,interval_entry, music_label, volume_scale, volume_label)
 if __name__ == "__main__":
     # Create the main tkinter window
     root = tk.Tk()
-    root.title("Water Reminder")
+    root.title("Water Drinking Reminder")
     root.config(background='aqua')
     root.wm_iconbitmap('D:\python\Project\Water drinking remainder\Water-Drinking-remainder/1.ico')
     
